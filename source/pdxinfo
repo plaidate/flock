@@ -2,6 +2,6 @@ name=Flock
 author=Simon Frost
 description=You are the sheepdog. Steer with the crank, run and brake with the d-pad, creep with B and bark with A to herd sheep, goats, ducks and geese past rocks, walls and ponds into the pen before the clock runs out. Four dogs, eight breeds, twelve trials.
 bundleID=com.sdwfrost.flock
-version=1.0
+version=0.1
 buildNumber=1
 imagePath=launcher
